@@ -1,6 +1,6 @@
 # test-repo
 ## secondary heading
-## tertiary heading
+### tertiary heading
 
 * bullet1
 * bullet2
