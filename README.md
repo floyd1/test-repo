@@ -2,5 +2,5 @@
 ## secondary heading
 ## tertiary heading
 
-*bullet1
-*bullet2
+* bullet1
+* bullet2
